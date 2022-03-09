@@ -2,7 +2,7 @@
 ![demo](demo.png)
 
 ### [Github repo with source files](https://github.com/ionif/visionglasses)
-### [Project website](https://vision.ionkov.tech)
+### [Project website](https://ionif.github.io/vision/)
 ### Goal
 
 The goal of this project is to opensource Google Cardboard style glasses for WebXR development and use. Currently compatible with WebXR (WebVR), Aframe, Google Cardboard. Fits the iPhone 11, X or any phone of similar dimension (~5.95" by ~2.95" by ~0.35").
@@ -38,4 +38,4 @@ I worked on this project during the Fall of 2020. Design and development till th
 
 Anyone interested in adjusting the models for other phones is welcome to! It would be awesome, if you create a push request afterwards, with the changes in a branch named the specific model phone! Remixes are welcome but must be open source as well however, due to the GPLv3 license.
 
-To check out more of my projects, visit my [website](https://ionkov.tech) or [Github](https://github.com/ionif).
+To check out more of my projects, visit my [website](https://ionif.github.io/vision/) or [Github](https://github.com/ionif).
