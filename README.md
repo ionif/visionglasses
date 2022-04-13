@@ -1,8 +1,10 @@
 ### Vision Smartphone Passthrough Glasses by Alex Ionkov
-![demo](demo.png)
+<center><img src="demo.png" alt="demo" width="800"/></center>
+
 
 ### [Github repo with source files](https://github.com/ionif/visionglasses)
 ### [Project website](https://ionif.github.io/vision/)
+### [Cults3D link](https://cults3d.com/en/3d-model/gadget/wearable-google-cardboard-glasses-vison-smartphone-mixed-reality-glasses)
 ### Goal
 
 The goal of this project is to opensource Google Cardboard style glasses for WebXR development and use. Currently compatible with WebXR (WebVR), Aframe, Google Cardboard. Fits the iPhone 11, X or any phone of similar dimension (~5.95" by ~2.95" by ~0.35").
@@ -21,7 +23,7 @@ The ear support pieces are removable which means you can print multiple headsets
 
 #### Lenses
 
-![lenses](lenses.jpg)
+<img src="lenses.jpg" alt="lenses" width="300"/>
 
 Here's the [Amazon link](https://www.amazon.com/gp/product/B074WPTTX8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1).  
 For lenses, I found the lenses another headset on Thingiverse used: [Link](https://www.thingiverse.com/thing:2946977). I used the same design for how the lenses locked into their headset; it's a really cool way to lock them in. The focal length is 45 mm which just means the distance between lense and phone needs to be 45 mm.
